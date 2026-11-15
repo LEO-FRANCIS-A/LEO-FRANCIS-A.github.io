@@ -1,4 +1,6 @@
-Leo Francis A — Cybersecurity Portfolio
+<p align="center">
+  <b>Leo Francis A — Cybersecurity Portfolio</b>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-3FE0C5?style=for-the-badge" />
